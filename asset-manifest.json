@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/deadshot002/reacthub-website/static/css/main.ecf359ab.css",
-    "main.js": "/deadshot002/reacthub-website/static/js/main.987abe2e.js",
+    "main.js": "/deadshot002/reacthub-website/static/js/main.74947199.js",
     "static/js/787.e387a67a.chunk.js": "/deadshot002/reacthub-website/static/js/787.e387a67a.chunk.js",
     "index.html": "/deadshot002/reacthub-website/index.html",
     "main.ecf359ab.css.map": "/deadshot002/reacthub-website/static/css/main.ecf359ab.css.map",
-    "main.987abe2e.js.map": "/deadshot002/reacthub-website/static/js/main.987abe2e.js.map",
+    "main.74947199.js.map": "/deadshot002/reacthub-website/static/js/main.74947199.js.map",
     "787.e387a67a.chunk.js.map": "/deadshot002/reacthub-website/static/js/787.e387a67a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecf359ab.css",
-    "static/js/main.987abe2e.js"
+    "static/js/main.74947199.js"
   ]
 }
